@@ -1,4 +1,3 @@
-jajda;j
-ajda;jf
-sjiesda'
+if a= 2:
+	print (a)
 
